@@ -1,0 +1,12 @@
+Ans->C
+0+0i->Z
+o->D
+For(I,1,N)
+(Z^2)+C->Z
+If abs(Z)>T:Then
+I->D
+Goto Q
+End
+End
+N->D
+Lbl Q
