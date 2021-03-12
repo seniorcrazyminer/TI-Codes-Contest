@@ -1,0 +1,21 @@
+"Some code for fun
+2->T
+-132->O:132->P
+-82->Q:82->R
+Input "RESO: ",S
+Input "ITER: ",N
+Input "DOT: ",**theta**
+For(A,Xmin,Xmax,S**delta**X)
+For(B,Ymin,Ymax,S**delta**Y)
+(A+Bi):prgmITERATE
+prgmCOL
+Pt-On(A,B,V,**theta**)
+End
+End
+Repeat getKey:
+randInt(O,P)*(10^log(**delta**X))->F
+randInt(Q,R)*(10^log(**delta**Y))->G
+(F+Gi):prgmITERATE
+prgmCOL
+Pt-On(F,G,V,4)
+End
