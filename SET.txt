@@ -1,4 +1,3 @@
-"Some code for fun
 2->T
 -132->O:132->P
 -82->Q:82->R
