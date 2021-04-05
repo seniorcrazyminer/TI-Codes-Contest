@@ -1,0 +1,2 @@
+language = "bash"
+run = "python TI-Codes_Project/main.py"
